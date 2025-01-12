@@ -1,0 +1,1 @@
+A three-player prisoner's dilemma simulation written in C++ to evalute the optimal strategy when expnading the classic two-player prsioner's dilemma to invlove three people. Included is the header file and main program used to create the data, as well as the result files, graphs of the results and a paper summarizing everyhting. 
