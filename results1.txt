@@ -1,0 +1,1372 @@
+Trial 1: (allDefect, allDefect, allDefect)
+Player 1: 5
+Player 2: 5
+Player 3: 5
+Trial 2: (allDefect, allDefect, allCooperate)
+Player 1: 25
+Player 2: 25
+Player 3: 0
+Trial 3: (allDefect, allDefect, random)
+Player 1: 25
+Player 2: 25
+Player 3: 0
+Trial 4: (allDefect, allDefect, goByMajority)
+Player 1: 9
+Player 2: 9
+Player 3: 4
+Trial 5: (allDefect, allDefect, softTfT)
+Player 1: 9
+Player 2: 9
+Player 3: 4
+Trial 6: (allDefect, allDefect, toughTfT)
+Player 1: 9
+Player 2: 9
+Player 3: 4
+Trial 7: (allDefect, allDefect, ATFT)
+Player 1: 9
+Player 2: 9
+Player 3: 4
+Trial 8: (allDefect, allCooperate, allDefect)
+Player 1: 25
+Player 2: 0
+Player 3: 25
+Trial 9: (allDefect, allCooperate, allCooperate)
+Player 1: 45
+Player 2: 15
+Player 3: 15
+Trial 10: (allDefect, allCooperate, random)
+Player 1: 33
+Player 2: 6
+Player 3: 21
+Trial 11: (allDefect, allCooperate, goByMajority)
+Player 1: 29
+Player 2: 3
+Player 3: 23
+Trial 12: (allDefect, allCooperate, softTfT)
+Player 1: 29
+Player 2: 3
+Player 3: 23
+Trial 13: (allDefect, allCooperate, toughTfT)
+Player 1: 45
+Player 2: 15
+Player 3: 15
+Trial 14: (allDefect, allCooperate, ATFT)
+Player 1: 29
+Player 2: 3
+Player 3: 23
+Trial 15: (allDefect, random, allDefect)
+Player 1: 13
+Player 2: 3
+Player 3: 13
+Trial 16: (allDefect, random, allCooperate)
+Player 1: 33
+Player 2: 21
+Player 3: 6
+Trial 17: (allDefect, random, random)
+Player 1: 21
+Player 2: 15
+Player 3: 5
+Trial 18: (allDefect, random, goByMajority)
+Player 1: 17
+Player 2: 7
+Player 3: 12
+Trial 19: (allDefect, random, softTfT)
+Player 1: 21
+Player 2: 5
+Player 3: 15
+Trial 20: (allDefect, random, toughTfT)
+Player 1: 17
+Player 2: 11
+Player 3: 6
+Trial 21: (allDefect, random, ATFT)
+Player 1: 17
+Player 2: 7
+Player 3: 12
+Trial 22: (allDefect, goByMajority, allDefect)
+Player 1: 9
+Player 2: 4
+Player 3: 9
+Trial 23: (allDefect, goByMajority, allCooperate)
+Player 1: 29
+Player 2: 23
+Player 3: 3
+Trial 24: (allDefect, goByMajority, random)
+Player 1: 17
+Player 2: 12
+Player 3: 7
+Trial 25: (allDefect, goByMajority, goByMajority)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 26: (allDefect, goByMajority, softTfT)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 27: (allDefect, goByMajority, toughTfT)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 28: (allDefect, goByMajority, ATFT)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 29: (allDefect, softTfT, allDefect)
+Player 1: 9
+Player 2: 4
+Player 3: 9
+Trial 30: (allDefect, softTfT, allCooperate)
+Player 1: 29
+Player 2: 23
+Player 3: 3
+Trial 31: (allDefect, softTfT, random)
+Player 1: 21
+Player 2: 16
+Player 3: 6
+Trial 32: (allDefect, softTfT, goByMajority)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 33: (allDefect, softTfT, softTfT)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 34: (allDefect, softTfT, toughTfT)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 35: (allDefect, softTfT, ATFT)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 36: (allDefect, toughTfT, allDefect)
+Player 1: 9
+Player 2: 4
+Player 3: 9
+Trial 37: (allDefect, toughTfT, allCooperate)
+Player 1: 45
+Player 2: 15
+Player 3: 15
+Trial 38: (allDefect, toughTfT, random)
+Player 1: 37
+Player 2: 14
+Player 3: 14
+Trial 39: (allDefect, toughTfT, goByMajority)
+Player 1: 17
+Player 2: 6
+Player 3: 11
+Trial 40: (allDefect, toughTfT, softTfT)
+Player 1: 17
+Player 2: 6
+Player 3: 11
+Trial 41: (allDefect, toughTfT, toughTfT)
+Player 1: 45
+Player 2: 15
+Player 3: 15
+Trial 42: (allDefect, toughTfT, ATFT)
+Player 1: 17
+Player 2: 6
+Player 3: 11
+Trial 43: (allDefect, ATFT, allDefect)
+Player 1: 9
+Player 2: 4
+Player 3: 9
+Trial 44: (allDefect, ATFT, allCooperate)
+Player 1: 29
+Player 2: 23
+Player 3: 3
+Trial 45: (allDefect, ATFT, random)
+Player 1: 13
+Player 2: 8
+Player 3: 8
+Trial 46: (allDefect, ATFT, goByMajority)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 47: (allDefect, ATFT, softTfT)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 48: (allDefect, ATFT, toughTfT)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 49: (allDefect, ATFT, ATFT)
+Player 1: 13
+Player 2: 7
+Player 3: 7
+Trial 50: (allCooperate, allDefect, allDefect)
+Player 1: 25
+Player 2: 25
+Player 3: 25
+Trial 51: (allCooperate, allDefect, allCooperate)
+Player 1: 15
+Player 2: 45
+Player 3: 15
+Trial 52: (allCooperate, allDefect, random)
+Player 1: 21
+Player 2: 33
+Player 3: 21
+Trial 53: (allCooperate, allDefect, goByMajority)
+Player 1: 23
+Player 2: 29
+Player 3: 23
+Trial 54: (allCooperate, allDefect, softTfT)
+Player 1: 23
+Player 2: 29
+Player 3: 23
+Trial 55: (allCooperate, allDefect, toughTfT)
+Player 1: 15
+Player 2: 45
+Player 3: 15
+Trial 56: (allCooperate, allDefect, ATFT)
+Player 1: 23
+Player 2: 29
+Player 3: 23
+Trial 57: (allCooperate, allCooperate, allDefect)
+Player 1: 15
+Player 2: 15
+Player 3: 45
+Trial 58: (allCooperate, allCooperate, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 59: (allCooperate, allCooperate, random)
+Player 1: 31
+Player 2: 31
+Player 3: 37
+Trial 60: (allCooperate, allCooperate, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 61: (allCooperate, allCooperate, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 62: (allCooperate, allCooperate, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 63: (allCooperate, allCooperate, ATFT)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 64: (allCooperate, random, allDefect)
+Player 1: 21
+Player 2: 21
+Player 3: 33
+Trial 65: (allCooperate, random, allCooperate)
+Player 1: 19
+Player 2: 43
+Player 3: 19
+Trial 66: (allCooperate, random, random)
+Player 1: 19
+Player 2: 31
+Player 3: 25
+Trial 67: (allCooperate, random, goByMajority)
+Player 1: 27
+Player 2: 39
+Player 3: 27
+Trial 68: (allCooperate, random, softTfT)
+Player 1: 23
+Player 2: 29
+Player 3: 23
+Trial 69: (allCooperate, random, toughTfT)
+Player 1: 31
+Player 2: 37
+Player 3: 31
+Trial 70: (allCooperate, random, ATFT)
+Player 1: 23
+Player 2: 23
+Player 3: 35
+Trial 71: (allCooperate, goByMajority, allDefect)
+Player 1: 15
+Player 2: 15
+Player 3: 45
+Trial 72: (allCooperate, goByMajority, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 73: (allCooperate, goByMajority, random)
+Player 1: 23
+Player 2: 23
+Player 3: 41
+Trial 74: (allCooperate, goByMajority, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 75: (allCooperate, goByMajority, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 76: (allCooperate, goByMajority, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 77: (allCooperate, goByMajority, ATFT)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 78: (allCooperate, softTfT, allDefect)
+Player 1: 23
+Player 2: 23
+Player 3: 29
+Trial 79: (allCooperate, softTfT, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 80: (allCooperate, softTfT, random)
+Player 1: 19
+Player 2: 31
+Player 3: 31
+Trial 81: (allCooperate, softTfT, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 82: (allCooperate, softTfT, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 83: (allCooperate, softTfT, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 84: (allCooperate, softTfT, ATFT)
+Player 1: 25
+Player 2: 25
+Player 3: 31
+Trial 85: (allCooperate, toughTfT, allDefect)
+Player 1: 15
+Player 2: 15
+Player 3: 45
+Trial 86: (allCooperate, toughTfT, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 87: (allCooperate, toughTfT, random)
+Player 1: 31
+Player 2: 31
+Player 3: 37
+Trial 88: (allCooperate, toughTfT, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 89: (allCooperate, toughTfT, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 90: (allCooperate, toughTfT, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 91: (allCooperate, toughTfT, ATFT)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 92: (allCooperate, ATFT, allDefect)
+Player 1: 23
+Player 2: 23
+Player 3: 29
+Trial 93: (allCooperate, ATFT, allCooperate)
+Player 1: 19
+Player 2: 43
+Player 3: 19
+Trial 94: (allCooperate, ATFT, random)
+Player 1: 25
+Player 2: 31
+Player 3: 25
+Trial 95: (allCooperate, ATFT, goByMajority)
+Player 1: 19
+Player 2: 43
+Player 3: 19
+Trial 96: (allCooperate, ATFT, softTfT)
+Player 1: 27
+Player 2: 27
+Player 3: 27
+Trial 97: (allCooperate, ATFT, toughTfT)
+Player 1: 19
+Player 2: 43
+Player 3: 19
+Trial 98: (allCooperate, ATFT, ATFT)
+Player 1: 27
+Player 2: 27
+Player 3: 27
+Trial 99: (random, allDefect, allDefect)
+Player 1: 13
+Player 2: 13
+Player 3: 13
+Trial 100: (random, allDefect, allCooperate)
+Player 1: 21
+Player 2: 33
+Player 3: 6
+Trial 101: (random, allDefect, random)
+Player 1: 21
+Player 2: 33
+Player 3: 6
+Trial 102: (random, allDefect, goByMajority)
+Player 1: 15
+Player 2: 21
+Player 3: 15
+Trial 103: (random, allDefect, softTfT)
+Player 1: 21
+Player 2: 21
+Player 3: 16
+Trial 104: (random, allDefect, toughTfT)
+Player 1: 13
+Player 2: 25
+Player 3: 8
+Trial 105: (random, allDefect, ATFT)
+Player 1: 15
+Player 2: 21
+Player 3: 15
+Trial 106: (random, allCooperate, allDefect)
+Player 1: 21
+Player 2: 6
+Player 3: 33
+Trial 107: (random, allCooperate, allCooperate)
+Player 1: 39
+Player 2: 27
+Player 3: 27
+Trial 108: (random, allCooperate, random)
+Player 1: 37
+Player 2: 20
+Player 3: 25
+Trial 109: (random, allCooperate, goByMajority)
+Player 1: 41
+Player 2: 23
+Player 3: 23
+Trial 110: (random, allCooperate, softTfT)
+Player 1: 27
+Player 2: 7
+Player 3: 27
+Trial 111: (random, allCooperate, toughTfT)
+Player 1: 39
+Player 2: 27
+Player 3: 27
+Trial 112: (random, allCooperate, ATFT)
+Player 1: 25
+Player 2: 9
+Player 3: 31
+Trial 113: (random, random, allDefect)
+Player 1: 17
+Player 2: 17
+Player 3: 29
+Trial 114: (random, random, allCooperate)
+Player 1: 31
+Player 2: 31
+Player 3: 20
+Trial 115: (random, random, random)
+Player 1: 21
+Player 2: 21
+Player 3: 15
+Trial 116: (random, random, goByMajority)
+Player 1: 31
+Player 2: 31
+Player 3: 20
+Trial 117: (random, random, softTfT)
+Player 1: 29
+Player 2: 19
+Player 3: 29
+Trial 118: (random, random, toughTfT)
+Player 1: 29
+Player 2: 11
+Player 3: 11
+Trial 119: (random, random, ATFT)
+Player 1: 25
+Player 2: 14
+Player 3: 19
+Trial 120: (random, goByMajority, allDefect)
+Player 1: 17
+Player 2: 12
+Player 3: 17
+Trial 121: (random, goByMajority, allCooperate)
+Player 1: 41
+Player 2: 23
+Player 3: 23
+Trial 122: (random, goByMajority, random)
+Player 1: 37
+Player 2: 19
+Player 3: 25
+Trial 123: (random, goByMajority, goByMajority)
+Player 1: 39
+Player 2: 27
+Player 3: 27
+Trial 124: (random, goByMajority, softTfT)
+Player 1: 31
+Player 2: 21
+Player 3: 31
+Trial 125: (random, goByMajority, toughTfT)
+Player 1: 41
+Player 2: 23
+Player 3: 23
+Trial 126: (random, goByMajority, ATFT)
+Player 1: 17
+Player 2: 11
+Player 3: 11
+Trial 127: (random, softTfT, allDefect)
+Player 1: 15
+Player 2: 15
+Player 3: 21
+Trial 128: (random, softTfT, allCooperate)
+Player 1: 33
+Player 2: 27
+Player 3: 17
+Trial 129: (random, softTfT, random)
+Player 1: 25
+Player 2: 19
+Player 3: 9
+Trial 130: (random, softTfT, goByMajority)
+Player 1: 33
+Player 2: 27
+Player 3: 17
+Trial 131: (random, softTfT, softTfT)
+Player 1: 19
+Player 2: 13
+Player 3: 13
+Trial 132: (random, softTfT, toughTfT)
+Player 1: 15
+Player 2: 15
+Player 3: 9
+Trial 133: (random, softTfT, ATFT)
+Player 1: 15
+Player 2: 15
+Player 3: 15
+Trial 134: (random, toughTfT, allDefect)
+Player 1: 15
+Player 2: 15
+Player 3: 45
+Trial 135: (random, toughTfT, allCooperate)
+Player 1: 41
+Player 2: 23
+Player 3: 23
+Trial 136: (random, toughTfT, random)
+Player 1: 27
+Player 2: 21
+Player 3: 27
+Trial 137: (random, toughTfT, goByMajority)
+Player 1: 37
+Player 2: 31
+Player 3: 31
+Trial 138: (random, toughTfT, softTfT)
+Player 1: 33
+Player 2: 17
+Player 3: 27
+Trial 139: (random, toughTfT, toughTfT)
+Player 1: 39
+Player 2: 27
+Player 3: 27
+Trial 140: (random, toughTfT, ATFT)
+Player 1: 19
+Player 2: 13
+Player 3: 31
+Trial 141: (random, ATFT, allDefect)
+Player 1: 19
+Player 2: 19
+Player 3: 25
+Trial 142: (random, ATFT, allCooperate)
+Player 1: 27
+Player 2: 27
+Player 3: 7
+Trial 143: (random, ATFT, random)
+Player 1: 21
+Player 2: 16
+Player 3: 16
+Trial 144: (random, ATFT, goByMajority)
+Player 1: 21
+Player 2: 39
+Player 3: 15
+Trial 145: (random, ATFT, softTfT)
+Player 1: 25
+Player 2: 19
+Player 3: 19
+Trial 146: (random, ATFT, toughTfT)
+Player 1: 13
+Player 2: 19
+Player 3: 13
+Trial 147: (random, ATFT, ATFT)
+Player 1: 25
+Player 2: 19
+Player 3: 19
+Trial 148: (goByMajority, allDefect, allDefect)
+Player 1: 25
+Player 2: 25
+Player 3: 25
+Trial 149: (goByMajority, allDefect, allCooperate)
+Player 1: 15
+Player 2: 45
+Player 3: 15
+Trial 150: (goByMajority, allDefect, random)
+Player 1: 21
+Player 2: 33
+Player 3: 21
+Trial 151: (goByMajority, allDefect, goByMajority)
+Player 1: 23
+Player 2: 29
+Player 3: 23
+Trial 152: (goByMajority, allDefect, softTfT)
+Player 1: 23
+Player 2: 29
+Player 3: 23
+Trial 153: (goByMajority, allDefect, toughTfT)
+Player 1: 15
+Player 2: 45
+Player 3: 15
+Trial 154: (goByMajority, allDefect, ATFT)
+Player 1: 23
+Player 2: 29
+Player 3: 23
+Trial 155: (goByMajority, allCooperate, allDefect)
+Player 1: 15
+Player 2: 15
+Player 3: 45
+Trial 156: (goByMajority, allCooperate, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 157: (goByMajority, allCooperate, random)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 158: (goByMajority, allCooperate, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 159: (goByMajority, allCooperate, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 160: (goByMajority, allCooperate, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 161: (goByMajority, allCooperate, ATFT)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 162: (goByMajority, random, allDefect)
+Player 1: 19
+Player 2: 19
+Player 3: 37
+Trial 163: (goByMajority, random, allCooperate)
+Player 1: 27
+Player 2: 39
+Player 3: 27
+Trial 164: (goByMajority, random, random)
+Player 1: 25
+Player 2: 31
+Player 3: 31
+Trial 165: (goByMajority, random, goByMajority)
+Player 1: 21
+Player 2: 27
+Player 3: 27
+Trial 166: (goByMajority, random, softTfT)
+Player 1: 25
+Player 2: 31
+Player 3: 25
+Trial 167: (goByMajority, random, toughTfT)
+Player 1: 27
+Player 2: 39
+Player 3: 27
+Trial 168: (goByMajority, random, ATFT)
+Player 1: 19
+Player 2: 25
+Player 3: 31
+Trial 169: (goByMajority, goByMajority, allDefect)
+Player 1: 15
+Player 2: 15
+Player 3: 45
+Trial 170: (goByMajority, goByMajority, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 171: (goByMajority, goByMajority, random)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 172: (goByMajority, goByMajority, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 173: (goByMajority, goByMajority, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 174: (goByMajority, goByMajority, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 175: (goByMajority, goByMajority, ATFT)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 176: (goByMajority, softTfT, allDefect)
+Player 1: 23
+Player 2: 23
+Player 3: 29
+Trial 177: (goByMajority, softTfT, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 178: (goByMajority, softTfT, random)
+Player 1: 27
+Player 2: 33
+Player 3: 33
+Trial 179: (goByMajority, softTfT, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 180: (goByMajority, softTfT, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 181: (goByMajority, softTfT, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 182: (goByMajority, softTfT, ATFT)
+Player 1: 25
+Player 2: 25
+Player 3: 31
+Trial 183: (goByMajority, toughTfT, allDefect)
+Player 1: 15
+Player 2: 15
+Player 3: 45
+Trial 184: (goByMajority, toughTfT, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 185: (goByMajority, toughTfT, random)
+Player 1: 27
+Player 2: 27
+Player 3: 39
+Trial 186: (goByMajority, toughTfT, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 187: (goByMajority, toughTfT, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 188: (goByMajority, toughTfT, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 189: (goByMajority, toughTfT, ATFT)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 190: (goByMajority, ATFT, allDefect)
+Player 1: 23
+Player 2: 23
+Player 3: 29
+Trial 191: (goByMajority, ATFT, allCooperate)
+Player 1: 19
+Player 2: 43
+Player 3: 19
+Trial 192: (goByMajority, ATFT, random)
+Player 1: 19
+Player 2: 31
+Player 3: 25
+Trial 193: (goByMajority, ATFT, goByMajority)
+Player 1: 19
+Player 2: 43
+Player 3: 19
+Trial 194: (goByMajority, ATFT, softTfT)
+Player 1: 27
+Player 2: 27
+Player 3: 27
+Trial 195: (goByMajority, ATFT, toughTfT)
+Player 1: 19
+Player 2: 43
+Player 3: 19
+Trial 196: (goByMajority, ATFT, ATFT)
+Player 1: 27
+Player 2: 27
+Player 3: 27
+Trial 197: (softTfT, allDefect, allDefect)
+Player 1: 9
+Player 2: 9
+Player 3: 9
+Trial 198: (softTfT, allDefect, allCooperate)
+Player 1: 23
+Player 2: 29
+Player 3: 3
+Trial 199: (softTfT, allDefect, random)
+Player 1: 13
+Player 2: 13
+Player 3: 8
+Trial 200: (softTfT, allDefect, goByMajority)
+Player 1: 7
+Player 2: 13
+Player 3: 7
+Trial 201: (softTfT, allDefect, softTfT)
+Player 1: 7
+Player 2: 13
+Player 3: 7
+Trial 202: (softTfT, allDefect, toughTfT)
+Player 1: 7
+Player 2: 13
+Player 3: 7
+Trial 203: (softTfT, allDefect, ATFT)
+Player 1: 7
+Player 2: 13
+Player 3: 7
+Trial 204: (softTfT, allCooperate, allDefect)
+Player 1: 23
+Player 2: 3
+Player 3: 29
+Trial 205: (softTfT, allCooperate, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 206: (softTfT, allCooperate, random)
+Player 1: 29
+Player 2: 23
+Player 3: 35
+Trial 207: (softTfT, allCooperate, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 208: (softTfT, allCooperate, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 209: (softTfT, allCooperate, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 210: (softTfT, allCooperate, ATFT)
+Player 1: 25
+Player 2: 10
+Player 3: 31
+Trial 211: (softTfT, random, allDefect)
+Player 1: 21
+Player 2: 6
+Player 3: 21
+Trial 212: (softTfT, random, allCooperate)
+Player 1: 25
+Player 2: 31
+Player 3: 9
+Trial 213: (softTfT, random, random)
+Player 1: 23
+Player 2: 18
+Player 3: 17
+Trial 214: (softTfT, random, goByMajority)
+Player 1: 27
+Player 2: 33
+Player 3: 17
+Trial 215: (softTfT, random, softTfT)
+Player 1: 11
+Player 2: 12
+Player 3: 11
+Trial 216: (softTfT, random, toughTfT)
+Player 1: 7
+Player 2: 13
+Player 3: 7
+Trial 217: (softTfT, random, ATFT)
+Player 1: 15
+Player 2: 11
+Player 3: 15
+Trial 218: (softTfT, goByMajority, allDefect)
+Player 1: 23
+Player 2: 3
+Player 3: 29
+Trial 219: (softTfT, goByMajority, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 220: (softTfT, goByMajority, random)
+Player 1: 29
+Player 2: 13
+Player 3: 29
+Trial 221: (softTfT, goByMajority, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 222: (softTfT, goByMajority, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 223: (softTfT, goByMajority, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 224: (softTfT, goByMajority, ATFT)
+Player 1: 25
+Player 2: 10
+Player 3: 31
+Trial 225: (softTfT, softTfT, allDefect)
+Player 1: 7
+Player 2: 7
+Player 3: 13
+Trial 226: (softTfT, softTfT, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 227: (softTfT, softTfT, random)
+Player 1: 19
+Player 2: 19
+Player 3: 25
+Trial 228: (softTfT, softTfT, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 229: (softTfT, softTfT, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 230: (softTfT, softTfT, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 231: (softTfT, softTfT, ATFT)
+Player 1: 13
+Player 2: 13
+Player 3: 19
+Trial 232: (softTfT, toughTfT, allDefect)
+Player 1: 7
+Player 2: 7
+Player 3: 13
+Trial 233: (softTfT, toughTfT, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 234: (softTfT, toughTfT, random)
+Player 1: 21
+Player 2: 15
+Player 3: 22
+Trial 235: (softTfT, toughTfT, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 236: (softTfT, toughTfT, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 237: (softTfT, toughTfT, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 238: (softTfT, toughTfT, ATFT)
+Player 1: 13
+Player 2: 13
+Player 3: 19
+Trial 239: (softTfT, ATFT, allDefect)
+Player 1: 7
+Player 2: 7
+Player 3: 13
+Trial 240: (softTfT, ATFT, allCooperate)
+Player 1: 25
+Player 2: 31
+Player 3: 10
+Trial 241: (softTfT, ATFT, random)
+Player 1: 19
+Player 2: 19
+Player 3: 10
+Trial 242: (softTfT, ATFT, goByMajority)
+Player 1: 25
+Player 2: 31
+Player 3: 10
+Trial 243: (softTfT, ATFT, softTfT)
+Player 1: 15
+Player 2: 15
+Player 3: 15
+Trial 244: (softTfT, ATFT, toughTfT)
+Player 1: 13
+Player 2: 19
+Player 3: 13
+Trial 245: (softTfT, ATFT, ATFT)
+Player 1: 15
+Player 2: 15
+Player 3: 15
+Trial 246: (toughTfT, allDefect, allDefect)
+Player 1: 9
+Player 2: 9
+Player 3: 9
+Trial 247: (toughTfT, allDefect, allCooperate)
+Player 1: 15
+Player 2: 45
+Player 3: 15
+Trial 248: (toughTfT, allDefect, random)
+Player 1: 25
+Player 2: 25
+Player 3: 15
+Trial 249: (toughTfT, allDefect, goByMajority)
+Player 1: 11
+Player 2: 17
+Player 3: 11
+Trial 250: (toughTfT, allDefect, softTfT)
+Player 1: 11
+Player 2: 17
+Player 3: 11
+Trial 251: (toughTfT, allDefect, toughTfT)
+Player 1: 15
+Player 2: 45
+Player 3: 15
+Trial 252: (toughTfT, allDefect, ATFT)
+Player 1: 11
+Player 2: 17
+Player 3: 11
+Trial 253: (toughTfT, allCooperate, allDefect)
+Player 1: 15
+Player 2: 15
+Player 3: 45
+Trial 254: (toughTfT, allCooperate, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 255: (toughTfT, allCooperate, random)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 256: (toughTfT, allCooperate, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 257: (toughTfT, allCooperate, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 258: (toughTfT, allCooperate, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 259: (toughTfT, allCooperate, ATFT)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 260: (toughTfT, random, allDefect)
+Player 1: 15
+Player 2: 10
+Player 3: 21
+Trial 261: (toughTfT, random, allCooperate)
+Player 1: 27
+Player 2: 39
+Player 3: 27
+Trial 262: (toughTfT, random, random)
+Player 1: 17
+Player 2: 17
+Player 3: 12
+Trial 263: (toughTfT, random, goByMajority)
+Player 1: 27
+Player 2: 39
+Player 3: 27
+Trial 264: (toughTfT, random, softTfT)
+Player 1: 23
+Player 2: 19
+Player 3: 23
+Trial 265: (toughTfT, random, toughTfT)
+Player 1: 23
+Player 2: 41
+Player 3: 23
+Trial 266: (toughTfT, random, ATFT)
+Player 1: 15
+Player 2: 21
+Player 3: 27
+Trial 267: (toughTfT, goByMajority, allDefect)
+Player 1: 15
+Player 2: 15
+Player 3: 45
+Trial 268: (toughTfT, goByMajority, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 269: (toughTfT, goByMajority, random)
+Player 1: 15
+Player 2: 15
+Player 3: 45
+Trial 270: (toughTfT, goByMajority, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 271: (toughTfT, goByMajority, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 272: (toughTfT, goByMajority, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 273: (toughTfT, goByMajority, ATFT)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 274: (toughTfT, softTfT, allDefect)
+Player 1: 11
+Player 2: 11
+Player 3: 17
+Trial 275: (toughTfT, softTfT, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 276: (toughTfT, softTfT, random)
+Player 1: 27
+Player 2: 27
+Player 3: 28
+Trial 277: (toughTfT, softTfT, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 278: (toughTfT, softTfT, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 279: (toughTfT, softTfT, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 280: (toughTfT, softTfT, ATFT)
+Player 1: 17
+Player 2: 17
+Player 3: 23
+Trial 281: (toughTfT, toughTfT, allDefect)
+Player 1: 15
+Player 2: 15
+Player 3: 45
+Trial 282: (toughTfT, toughTfT, allCooperate)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 283: (toughTfT, toughTfT, random)
+Player 1: 31
+Player 2: 31
+Player 3: 37
+Trial 284: (toughTfT, toughTfT, goByMajority)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 285: (toughTfT, toughTfT, softTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 286: (toughTfT, toughTfT, toughTfT)
+Player 1: 35
+Player 2: 35
+Player 3: 35
+Trial 287: (toughTfT, toughTfT, ATFT)
+Player 1: 19
+Player 2: 19
+Player 3: 43
+Trial 288: (toughTfT, ATFT, allDefect)
+Player 1: 11
+Player 2: 11
+Player 3: 17
+Trial 289: (toughTfT, ATFT, allCooperate)
+Player 1: 19
+Player 2: 43
+Player 3: 19
+Trial 290: (toughTfT, ATFT, random)
+Player 1: 21
+Player 2: 27
+Player 3: 22
+Trial 291: (toughTfT, ATFT, goByMajority)
+Player 1: 19
+Player 2: 43
+Player 3: 19
+Trial 292: (toughTfT, ATFT, softTfT)
+Player 1: 15
+Player 2: 15
+Player 3: 15
+Trial 293: (toughTfT, ATFT, toughTfT)
+Player 1: 19
+Player 2: 43
+Player 3: 19
+Trial 294: (toughTfT, ATFT, ATFT)
+Player 1: 15
+Player 2: 15
+Player 3: 15
+Trial 295: (ATFT, allDefect, allDefect)
+Player 1: 9
+Player 2: 9
+Player 3: 9
+Trial 296: (ATFT, allDefect, allCooperate)
+Player 1: 23
+Player 2: 29
+Player 3: 3
+Trial 297: (ATFT, allDefect, random)
+Player 1: 15
+Player 2: 21
+Player 3: 5
+Trial 298: (ATFT, allDefect, goByMajority)
+Player 1: 7
+Player 2: 13
+Player 3: 7
+Trial 299: (ATFT, allDefect, softTfT)
+Player 1: 7
+Player 2: 13
+Player 3: 7
+Trial 300: (ATFT, allDefect, toughTfT)
+Player 1: 7
+Player 2: 13
+Player 3: 7
+Trial 301: (ATFT, allDefect, ATFT)
+Player 1: 7
+Player 2: 13
+Player 3: 7
+Trial 302: (ATFT, allCooperate, allDefect)
+Player 1: 23
+Player 2: 3
+Player 3: 29
+Trial 303: (ATFT, allCooperate, allCooperate)
+Player 1: 43
+Player 2: 19
+Player 3: 19
+Trial 304: (ATFT, allCooperate, random)
+Player 1: 31
+Player 2: 9
+Player 3: 25
+Trial 305: (ATFT, allCooperate, goByMajority)
+Player 1: 43
+Player 2: 19
+Player 3: 19
+Trial 306: (ATFT, allCooperate, softTfT)
+Player 1: 27
+Player 2: 7
+Player 3: 27
+Trial 307: (ATFT, allCooperate, toughTfT)
+Player 1: 43
+Player 2: 19
+Player 3: 19
+Trial 308: (ATFT, allCooperate, ATFT)
+Player 1: 27
+Player 2: 7
+Player 3: 27
+Trial 309: (ATFT, random, allDefect)
+Player 1: 15
+Player 2: 5
+Player 3: 21
+Trial 310: (ATFT, random, allCooperate)
+Player 1: 31
+Player 2: 25
+Player 3: 9
+Trial 311: (ATFT, random, random)
+Player 1: 23
+Player 2: 17
+Player 3: 11
+Trial 312: (ATFT, random, goByMajority)
+Player 1: 35
+Player 2: 23
+Player 3: 13
+Trial 313: (ATFT, random, softTfT)
+Player 1: 15
+Player 2: 10
+Player 3: 15
+Trial 314: (ATFT, random, toughTfT)
+Player 1: 31
+Player 2: 19
+Player 3: 13
+Trial 315: (ATFT, random, ATFT)
+Player 1: 19
+Player 2: 9
+Player 3: 19
+Trial 316: (ATFT, goByMajority, allDefect)
+Player 1: 23
+Player 2: 3
+Player 3: 29
+Trial 317: (ATFT, goByMajority, allCooperate)
+Player 1: 43
+Player 2: 19
+Player 3: 19
+Trial 318: (ATFT, goByMajority, random)
+Player 1: 39
+Player 2: 16
+Player 3: 21
+Trial 319: (ATFT, goByMajority, goByMajority)
+Player 1: 43
+Player 2: 19
+Player 3: 19
+Trial 320: (ATFT, goByMajority, softTfT)
+Player 1: 27
+Player 2: 7
+Player 3: 27
+Trial 321: (ATFT, goByMajority, toughTfT)
+Player 1: 43
+Player 2: 19
+Player 3: 19
+Trial 322: (ATFT, goByMajority, ATFT)
+Player 1: 27
+Player 2: 7
+Player 3: 27
+Trial 323: (ATFT, softTfT, allDefect)
+Player 1: 7
+Player 2: 7
+Player 3: 13
+Trial 324: (ATFT, softTfT, allCooperate)
+Player 1: 27
+Player 2: 27
+Player 3: 7
+Trial 325: (ATFT, softTfT, random)
+Player 1: 19
+Player 2: 19
+Player 3: 9
+Trial 326: (ATFT, softTfT, goByMajority)
+Player 1: 27
+Player 2: 27
+Player 3: 7
+Trial 327: (ATFT, softTfT, softTfT)
+Player 1: 11
+Player 2: 11
+Player 3: 11
+Trial 328: (ATFT, softTfT, toughTfT)
+Player 1: 11
+Player 2: 11
+Player 3: 11
+Trial 329: (ATFT, softTfT, ATFT)
+Player 1: 11
+Player 2: 11
+Player 3: 11
+Trial 330: (ATFT, toughTfT, allDefect)
+Player 1: 7
+Player 2: 7
+Player 3: 13
+Trial 331: (ATFT, toughTfT, allCooperate)
+Player 1: 43
+Player 2: 19
+Player 3: 19
+Trial 332: (ATFT, toughTfT, random)
+Player 1: 15
+Player 2: 10
+Player 3: 15
+Trial 333: (ATFT, toughTfT, goByMajority)
+Player 1: 43
+Player 2: 19
+Player 3: 19
+Trial 334: (ATFT, toughTfT, softTfT)
+Player 1: 15
+Player 2: 10
+Player 3: 15
+Trial 335: (ATFT, toughTfT, toughTfT)
+Player 1: 43
+Player 2: 19
+Player 3: 19
+Trial 336: (ATFT, toughTfT, ATFT)
+Player 1: 15
+Player 2: 10
+Player 3: 15
+Trial 337: (ATFT, ATFT, allDefect)
+Player 1: 7
+Player 2: 7
+Player 3: 13
+Trial 338: (ATFT, ATFT, allCooperate)
+Player 1: 27
+Player 2: 27
+Player 3: 7
+Trial 339: (ATFT, ATFT, random)
+Player 1: 11
+Player 2: 11
+Player 3: 12
+Trial 340: (ATFT, ATFT, goByMajority)
+Player 1: 27
+Player 2: 27
+Player 3: 7
+Trial 341: (ATFT, ATFT, softTfT)
+Player 1: 11
+Player 2: 11
+Player 3: 11
+Trial 342: (ATFT, ATFT, toughTfT)
+Player 1: 11
+Player 2: 11
+Player 3: 11
+Trial 343: (ATFT, ATFT, ATFT)
+Player 1: 11
+Player 2: 11
+Player 3: 11

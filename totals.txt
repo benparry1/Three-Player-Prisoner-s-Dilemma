@@ -1,0 +1,44 @@
+trial 1:
+allDefect strat: 319
+allCooperate strat: 263
+random strat: 297
+goByMajority strat: 269
+softTfT strat: 281
+toughTfT strat: 275
+ATFT strat: 275
+
+trial 2:
+allDefect strat: 339
+allCooperate strat: 263
+random strat: 317
+goByMajority strat: 275
+softTfT strat: 269
+toughTfT strat: 273
+ATFT strat: 269
+
+trial 3:
+allDefect strat: 327
+allCooperate strat: 279
+random strat: 311
+goByMajority strat: 281
+softTfT strat: 277
+toughTfT strat: 269
+ATFT strat: 275
+
+trial 4:
+allDefect strat: 323
+allCooperate strat: 275
+random strat: 293
+goByMajority strat: 269
+softTfT strat: 273
+toughTfT strat: 275
+ATFT strat: 273
+
+trial 5:
+allDefect strat: 343
+allCooperate strat: 271
+random strat: 297
+goByMajority strat: 257
+softTfT strat: 263
+toughTfT strat: 257
+ATFT strat: 275
